@@ -11,7 +11,9 @@ const sentence = 'He is a good person and adopt'
 
 const friendStr = 'akib, nakib, sakib, obkib, fahim';
 const friend =friendStr.split(',')
+const friend2 =friendStr.split(' ')
 console.log(friend)
+console.log(friend2)
 
 const friendAry = ['nakib', 'akib', 'sakib', 'okib','fahim']
 console.log(friendAry.join(''))
