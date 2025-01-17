@@ -19,5 +19,6 @@ const friendAry = ['nakib', 'akib', 'sakib', 'okib','fahim']
 console.log(friendAry.join(''))
 console.log(friendAry.join())
 console.log(friendAry.join(' '))
+console.log(friendAry.join(' a'))
 console.log(friendAry.join('|'))
 console.log(friendAry.join(','))
