@@ -12,6 +12,7 @@ const name = ' Hakim   ';
 
 if (person.trim()=== name.trim()) {
     console.log('Name is matching')
+    console.log('This is right person')
 } else {
     console.log("Name is not matching");
 }
