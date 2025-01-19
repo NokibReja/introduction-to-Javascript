@@ -4,7 +4,7 @@ const fruit = 'MANGO';
 if (item.toLocaleLowerCase() === fruit.toLocaleLowerCase()) {
     console.log('It is a fruit');
 } else {
-    console.log('wrong item')
+    console.log('wrong item fruit')
 }
 
 const person = 'Hakim ';
