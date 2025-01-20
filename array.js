@@ -10,7 +10,7 @@ console.log(friends)
 friends.shift()
 console.log(friends)
 
-const something = [11, 12 ,'kafi', 'sami']
+const something = [11, 12 , 13, 'kafi', 'sami']
 const out1= something.pop()
 
 console.log(something)
