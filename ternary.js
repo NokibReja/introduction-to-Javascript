@@ -23,4 +23,5 @@ const isPoor = false;
 // price = isPoor === true ? 0 : price + 1000;
 price = isPoor === true ? price > 1000 ? price/2 : 0 : price + 1000;
 console.log(price);
+console.log(price);
 
