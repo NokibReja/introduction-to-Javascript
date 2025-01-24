@@ -9,4 +9,5 @@ var second = 0.2;
 
 var total = first + second;
 console.log (total.toFixed(4))
+console.log (total.toFixed(2))
 
