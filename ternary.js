@@ -12,13 +12,9 @@ const isPoor = false;
 //     price +=1000;
 // }
 
-
-
-
 // price > 1000 ? price = price/2 : price = 0;
 // price > 1000 ? price/2 : 0;
 // console.log(price)
-
 
 // price = isPoor === true ? 0 : price + 1000;
 price = isPoor === true ? price > 1000 ? price/2 : 0 : price + 1000;

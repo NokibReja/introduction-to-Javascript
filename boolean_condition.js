@@ -4,7 +4,6 @@ if (isTrue) {
     console.log("you are winner");
 }
 
-
 const isPassed = false;
 // if (isPassed === false)
 if (!isPassed) {
