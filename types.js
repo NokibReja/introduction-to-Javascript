@@ -1,5 +1,6 @@
 var name1 = 'mr. dot';
 var name2 = 'mr. x';
+var name2 = 'mr. y';
 var id = 123;
 var cls = 11;
 var isRight = true;
